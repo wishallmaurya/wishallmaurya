@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kr. Maurya</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="100" src="https://i.imgur.com/udflTOY.png">
+<img align="right" alt="Coding" width="180" src="https://i.imgur.com/udflTOY.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishallmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="wishallmaurya" /> </p>
