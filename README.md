@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kr. Maurya</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name%27s+Vishal+Kr.+Maurya.;I%27m+a+Passionate+full-stack+developer." alt="typing intro">
+</p>
 <img align="right" alt="Coding" width="140" src="https://i.imgur.com/udflTOY.png">
 
 
