@@ -24,7 +24,7 @@
 | Project | Description | Live Link |
 |--------|-------------|-----------|
 | **EduON** | School Management SaaS Platform | [eduon.in](https://eduon.in) |
-| **Study Hub** | Online Learning and Resource Sharing Tool | [studyhub.eduon.in](https://studyhub.eduon.in) |
+| **Study Hub** | Finding Study Centres and Book Appointments | [studyhub.eduon.in](https://studyhub.eduon.in) |
 
 > *Note: Reach out privately to view additional or closed-source projects.*
 
