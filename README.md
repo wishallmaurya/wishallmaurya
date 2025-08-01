@@ -25,7 +25,6 @@
 |--------|-------------|-----------|
 | **EduON** | School Management SaaS Platform | [eduon.in](https://eduon.in) |
 | **Study Hub** | Online Learning and Resource Sharing Tool | [studyhub.eduon.in](https://studyhub.eduon.in) |
-| **Secuber** | Lightweight Cybersecurity Alert App | [secuber.io](https://secuber.io) |
 
 > *Note: Reach out privately to view additional or closed-source projects.*
 
