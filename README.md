@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=08CE90&center=true&vCenter=true&lines=Hi+there!+I'm+Vishal+Kr.+Maurya.;Backend+Developer+%7C+API+Builder+%7C+Cloud+Engineer" alt="typing intro">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=08CE90&center=true&vCenter=true&lines=Hi+there!+I'm+Vishal+Kr.+Maurya +Backend+Developer+%7C+API+Builder+%7C+Cloud+Engineer" alt="typing intro">
 </p>
 
 <img align="right" alt="Coding" width="140" src="https://i.imgur.com/udflTOY.png" />
